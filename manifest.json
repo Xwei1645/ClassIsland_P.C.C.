@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "YJOFLS_2022-9"
+    "OrganizationName": "YJOFLS_2022-9",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/Xwei1645/ClassIsland_P.C.C./master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/Xwei1645/ClassIsland_P.C.C./master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/Xwei1645/ClassIsland_P.C.C./master/subjects.json",
+        "Version": 1
+    }
 }
